@@ -1,0 +1,783 @@
+[
+  {
+    "id": 1,
+    "text": "A imaginação é mais importante que o conhecimento.",
+    "author_id": 1,
+    "category_id": 5
+  },
+  {
+    "id": 2,
+    "text": "A vida é como andar de bicicleta. Para manter o equilíbrio, você precisa continuar se movendo.",
+    "author_id": 1,
+    "category_id": 9
+  },
+  {
+    "id": 3,
+    "text": "A educação é a arma mais poderosa que você pode usar para mudar o mundo.",
+    "author_id": 2,
+    "category_id": 5
+  },
+  {
+    "id": 4,
+    "text": "Ninguém nasce odiando outra pessoa pela cor de sua pele, por sua origem ou ainda por sua religião.",
+    "author_id": 2,
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "text": "Seja a mudança que você deseja ver no mundo.",
+    "author_id": 3,
+    "category_id": 10
+  },
+  {
+    "id": 6,
+    "text": "A força não vem da capacidade física. Vem de uma vontade indomável.",
+    "author_id": 3,
+    "category_id": 4
+  },
+  {
+    "id": 7,
+    "text": "Ser ou não ser, eis a questão.",
+    "author_id": 4,
+    "category_id": 9
+  },
+  {
+    "id": 8,
+    "text": "O amor não olha com os olhos, mas com a alma.",
+    "author_id": 4,
+    "category_id": 2
+  },
+  {
+    "id": 9,
+    "text": "A injustiça em qualquer lugar é uma ameaça à justiça em todo lugar.",
+    "author_id": 5,
+    "category_id": 1
+  },
+  {
+    "id": 10,
+    "text": "A escuridão não pode expulsar a escuridão; apenas a luz pode fazer isso. O ódio não pode expulsar o ódio; apenas o amor pode fazer isso.",
+    "author_id": 5,
+    "category_id": 2
+  },
+  {
+    "id": 11,
+    "text": "Aprendi que as pessoas vão esquecer o que você disse, vão esquecer o que você fez, mas nunca vão esquecer como você as fez sentir.",
+    "author_id": 6,
+    "category_id": 3
+  },
+  {
+    "id": 12,
+    "text": "Se você está sempre tentando ser normal, nunca saberá o quão incrível você pode ser.",
+    "author_id": 6,
+    "category_id": 10
+  },
+  {
+    "id": 13,
+    "text": "Seu tempo é limitado, então não o desperdice vivendo a vida de outra pessoa.",
+    "author_id": 7,
+    "category_id": 9
+  },
+  {
+    "id": 14,
+    "text": "A inovação distingue um líder de um seguidor.",
+    "author_id": 7,
+    "category_id": 8
+  },
+  {
+    "id": 15,
+    "text": "Não importa quão devagar você vá, desde que você não pare.",
+    "author_id": 8,
+    "category_id": 6
+  },
+  {
+    "id": 16,
+    "text": "A nossa maior glória não está em nunca cair, mas em levantar-nos sempre depois de cada queda.",
+    "author_id": 8,
+    "category_id": 4
+  },
+  {
+    "id": 17,
+    "text": "Somos o que fazemos repetidamente. A excelência, portanto, não é um ato, mas um hábito.",
+    "author_id": 9,
+    "category_id": 8
+  },
+  {
+    "id": 18,
+    "text": "A felicidade depende de nós mesmos.",
+    "author_id": 9,
+    "category_id": 7
+  },
+  {
+    "id": 19,
+    "text": "A vida não examinada não vale a pena ser vivida.",
+    "author_id": 10,
+    "category_id": 1
+  },
+  {
+    "id": 20,
+    "text": "Sábio é aquele que conhece os limites da própria ignorância.",
+    "author_id": 10,
+    "category_id": 1
+  },
+  {
+    "id": 21,
+    "text": "A felicidade não é algo pronto. Ela vem de suas próprias ações.",
+    "author_id": 11,
+    "category_id": 7
+  },
+  {
+    "id": 22,
+    "text": "Seja gentil sempre que possível. É sempre possível.",
+    "author_id": 11,
+    "category_id": 3
+  },
+  {
+    "id": 23,
+    "text": "Seja você mesmo; todos os outros já foram escolhidos.",
+    "author_id": 12,
+    "category_id": 10
+  },
+  {
+    "id": 24,
+    "text": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.",
+    "author_id": 12,
+    "category_id": 9
+  },
+  {
+    "id": 25,
+    "text": "Os dois dias mais importantes da sua vida são o dia em que você nasce e o dia em que você descobre o porquê.",
+    "author_id": 13,
+    "category_id": 9
+  },
+  {
+    "id": 26,
+    "text": "A coragem não é a ausência do medo, mas a persistência apesar do medo.",
+    "author_id": 13,
+    "category_id": 4
+  },
+  {
+    "id": 27,
+    "text": "Todos os nossos sonhos podem se tornar realidade se tivermos a coragem de persegui-los.",
+    "author_id": 14,
+    "category_id": 6
+  },
+  {
+    "id": 28,
+    "text": "A maneira de começar é parar de falar e começar a fazer.",
+    "author_id": 14,
+    "category_id": 8
+  },
+  {
+    "id": 29,
+    "text": "Ninguém pode fazer você se sentir inferior sem o seu consentimento.",
+    "author_id": 15,
+    "category_id": 4
+  },
+  {
+    "id": 30,
+    "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+    "author_id": 15,
+    "category_id": 10
+  },
+  {
+    "id": 31,
+    "text": "A ação é a chave fundamental para todo o sucesso.",
+    "author_id": 16,
+    "category_id": 8
+  },
+  {
+    "id": 32,
+    "text": "Aprenda as regras como um profissional, para que você possa quebrá-las como um artista.",
+    "author_id": 16,
+    "category_id": 5
+  },
+  {
+    "id": 33,
+    "text": "Que ninguém se engane, só se consegue a simplicidade através de muito trabalho.",
+    "author_id": 17,
+    "category_id": 1
+  },
+  {
+    "id": 34,
+    "text": "Renda-se, como eu me rendi. Mergulhe no que você não conhece como eu mergulhei.",
+    "author_id": 17,
+    "category_id": 4
+  },
+  {
+    "id": 35,
+    "text": "A vida é para quem topa qualquer parada. Não para quem para em qualquer topada.",
+    "author_id": 18,
+    "category_id": 9
+  },
+  {
+    "id": 36,
+    "text": "O destino não é uma questão de sorte, mas uma questão de escolha.",
+    "author_id": 18,
+    "category_id": 1
+  },
+  {
+    "id": 37,
+    "text": "Quando você quer alguma coisa, todo o Universo conspira para que você realize o seu desejo.",
+    "author_id": 19,
+    "category_id": 10
+  },
+  {
+    "id": 38,
+    "text": "É preciso correr riscos, seguir certos caminhos e abandonar outros. Nenhuma pessoa é capaz de escolher sem medo.",
+    "author_id": 19,
+    "category_id": 4
+  },
+  {
+    "id": 39,
+    "text": "No meio do caminho tinha uma pedra, tinha uma pedra no meio do caminho.",
+    "author_id": 20,
+    "category_id": 9
+  },
+  {
+    "id": 40,
+    "text": "Ser feliz sem motivo é a mais autêntica forma de felicidade.",
+    "author_id": 20,
+    "category_id": 7
+  },
+  {
+    "id": 41,
+    "text": "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.",
+    "author_id": 1,
+    "category_id": 5
+  },
+  {
+    "id": 42,
+    "text": "Sempre parece impossível até que seja feito.",
+    "author_id": 2,
+    "category_id": 6
+  },
+  {
+    "id": 43,
+    "text": "Viva como se fosse morrer amanhã. Aprenda como se fosse viver para sempre.",
+    "author_id": 3,
+    "category_id": 5
+  },
+  {
+    "id": 44,
+    "text": "O amor é cego e os amantes não conseguem ver as loucuras que cometem.",
+    "author_id": 4,
+    "category_id": 2
+  },
+  {
+    "id": 45,
+    "text": "A verdadeira grandeza consiste em ser grande nas pequenas coisas.",
+    "author_id": 5,
+    "category_id": 1
+  },
+  {
+    "id": 46,
+    "text": "Sucesso é gostar de você mesmo, gostar do que você faz e gostar de como você faz.",
+    "author_id": 6,
+    "category_id": 8
+  },
+  {
+    "id": 47,
+    "text": "Ter a mente de um principiante é maravilhoso.",
+    "author_id": 7,
+    "category_id": 5
+  },
+  {
+    "id": 48,
+    "text": "Onde quer que você vá, vá com todo o seu coração.",
+    "author_id": 8,
+    "category_id": 6
+  },
+  {
+    "id": 49,
+    "text": "O prazer no trabalho aperfeiçoa a obra.",
+    "author_id": 9,
+    "category_id": 8
+  },
+  {
+    "id": 50,
+    "text": "Conheça a si mesmo.",
+    "author_id": 10,
+    "category_id": 1
+  },
+  {
+    "id": 51,
+    "text": "Aprender é a única coisa de que a mente nunca se cansa, nunca tem medo e nunca se arrepende.",
+    "author_id": 21,
+    "category_id": 5
+  },
+  {
+    "id": 52,
+    "text": "A simplicidade é o último grau de sofisticação.",
+    "author_id": 21,
+    "category_id": 1
+  },
+  {
+    "id": 53,
+    "text": "Nada na vida deve ser temido, somente compreendido. Agora é hora de compreender mais para temer menos.",
+    "author_id": 22,
+    "category_id": 4
+  },
+  {
+    "id": 54,
+    "text": "Seja menos curioso sobre as pessoas e mais curioso sobre as ideias.",
+    "author_id": 22,
+    "category_id": 5
+  },
+  {
+    "id": 55,
+    "text": "Eu sonho minha pintura e então pinto meu sonho.",
+    "author_id": 23,
+    "category_id": 10
+  },
+  {
+    "id": 56,
+    "text": "Grandes coisas são feitas por uma série de pequenas coisas reunidas.",
+    "author_id": 23,
+    "category_id": 8
+  },
+  {
+    "id": 57,
+    "text": "Aquele que tem um porquê para viver pode suportar quase qualquer como.",
+    "author_id": 24,
+    "category_id": 9
+  },
+  {
+    "id": 58,
+    "text": "O que não me mata, me fortalece.",
+    "author_id": 24,
+    "category_id": 4
+  },
+  {
+    "id": 59,
+    "text": "Pés, para que os quero, se tenho asas para voar?",
+    "author_id": 25,
+    "category_id": 10
+  },
+  {
+    "id": 60,
+    "text": "Pinto a mim mesma porque sou sozinha e porque sou o assunto que conheço melhor.",
+    "author_id": 25,
+    "category_id": 1
+  },
+  {
+    "id": 61,
+    "text": "A sabedoria começa na reflexão.",
+    "author_id": 26,
+    "category_id": 1
+  },
+  {
+    "id": 62,
+    "text": "O maior bem é a justiça.",
+    "author_id": 26,
+    "category_id": 1
+  },
+  {
+    "id": 63,
+    "text": "Sozinhos podemos fazer tão pouco; juntos podemos fazer tanto.",
+    "author_id": 27,
+    "category_id": 3
+  },
+  {
+    "id": 64,
+    "text": "O otimismo é a fé em ação. Nada se pode levar a efeito sem otimismo.",
+    "author_id": 27,
+    "category_id": 6
+  },
+  {
+    "id": 65,
+    "text": "Não tenha medo do fracasso. Este não é o oposto do sucesso. É parte do sucesso.",
+    "author_id": 28,
+    "category_id": 8
+  },
+  {
+    "id": 66,
+    "text": "Esvaziar a mente não significa ausência de pensamentos. Significa estar presente.",
+    "author_id": 28,
+    "category_id": 1
+  },
+  {
+    "id": 67,
+    "text": "O grande segredo da vida é se apaixonar.",
+    "author_id": 29,
+    "category_id": 2
+  },
+  {
+    "id": 68,
+    "text": "Você se torna aquilo que acredita ser.",
+    "author_id": 29,
+    "category_id": 10
+  },
+  {
+    "id": 69,
+    "text": "Não se preocupe com nada, porque toda pequena coisa vai ficar bem.",
+    "author_id": 30,
+    "category_id": 7
+  },
+  {
+    "id": 70,
+    "text": "O amor é a única força capaz de transformar um inimigo num amigo.",
+    "author_id": 30,
+    "category_id": 2
+  },
+  {
+    "id": 71,
+    "text": "Apesar de tudo, acredito que as pessoas são realmente boas de coração.",
+    "author_id": 31,
+    "category_id": 1
+  },
+  {
+    "id": 72,
+    "text": "Pense em toda a beleza ainda deixada ao redor de você e seja feliz.",
+    "author_id": 31,
+    "category_id": 7
+  },
+  {
+    "id": 73,
+    "text": "A vida é aquilo que acontece enquanto você está ocupado fazendo outros planos.",
+    "author_id": 32,
+    "category_id": 9
+  },
+  {
+    "id": 74,
+    "text": "Imagine todas as pessoas vivendo a vida em paz.",
+    "author_id": 32,
+    "category_id": 10
+  },
+  {
+    "id": 75,
+    "text": "Não espere por líderes; faça sozinho, pessoa a pessoa.",
+    "author_id": 33,
+    "category_id": 4
+  },
+  {
+    "id": 76,
+    "text": "A paz começa com um sorriso.",
+    "author_id": 33,
+    "category_id": 7
+  },
+  {
+    "id": 77,
+    "text": "Não é porque as coisas são difíceis que não ousamos. É porque não ousamos que elas são difíceis.",
+    "author_id": 34,
+    "category_id": 4
+  },
+  {
+    "id": 78,
+    "text": "Deixe-se ser silenciosamente atraído pela estranha atração do que você realmente ama.",
+    "author_id": 34,
+    "category_id": 2
+  },
+  {
+    "id": 79,
+    "text": "Um investimento em conhecimento sempre paga os melhores juros.",
+    "author_id": 35,
+    "category_id": 5
+  },
+  {
+    "id": 80,
+    "text": "Diga-me e eu esqueço. Ensina-me e eu lembro. Envolve-me e eu aprendo.",
+    "author_id": 35,
+    "category_id": 5
+  },
+  {
+    "id": 81,
+    "text": "A moda passa, o estilo permanece.",
+    "author_id": 36,
+    "category_id": 1
+  },
+  {
+    "id": 82,
+    "text": "Para ser insubstituível, é preciso ser diferente.",
+    "author_id": 36,
+    "category_id": 10
+  },
+  {
+    "id": 83,
+    "text": "Tudo vale a pena se a alma não é pequena.",
+    "author_id": 37,
+    "category_id": 9
+  },
+  {
+    "id": 84,
+    "text": "Não sou nada. Nunca serei nada. Não posso querer ser nada. À parte isso, tenho em mim todos os sonhos do mundo.",
+    "author_id": 37,
+    "category_id": 9
+  },
+  {
+    "id": 85,
+    "text": "Que o amor não seja eterno posto que é chama. Mas que seja infinito enquanto dure.",
+    "author_id": 38,
+    "category_id": 2
+  },
+  {
+    "id": 86,
+    "text": "A vida é a arte do encontro.",
+    "author_id": 38,
+    "category_id": 9
+  },
+  {
+    "id": 87,
+    "text": "Eu canto porque o instante existe e a minha vida está completa.",
+    "author_id": 39,
+    "category_id": 7
+  },
+  {
+    "id": 88,
+    "text": "E quem caminha sozinho pode até chegar mais rápido, mas aquele que vai acompanhado, com certeza vai mais longe.",
+    "author_id": 39,
+    "category_id": 3
+  },
+  {
+    "id": 89,
+    "text": "O amor é como um livro: cada capítulo conta uma história diferente.",
+    "author_id": 40,
+    "category_id": 2
+  },
+  {
+    "id": 90,
+    "text": "Deus concede a cada um de nós, a cada dia, o pão para o corpo e o pão para a alma.",
+    "author_id": 40,
+    "category_id": 1
+  },
+  {
+    "id": 91,
+    "text": "Ser livre é ser responsável. É descartar o papel de vítima.",
+    "author_id": 41,
+    "category_id": 1
+  },
+  {
+    "id": 92,
+    "text": "O maior espetáculo da vida é viver intensamente cada momento.",
+    "author_id": 41,
+    "category_id": 9
+  },
+  {
+    "id": 93,
+    "text": "Quem mal lê, mal ouve, mal fala, mal vê.",
+    "author_id": 42,
+    "category_id": 5
+  },
+  {
+    "id": 94,
+    "text": "Um país se faz com homens e livros.",
+    "author_id": 42,
+    "category_id": 5
+  },
+  {
+    "id": 95,
+    "text": "Mestre não é quem sempre ensina, mas quem de repente aprende.",
+    "author_id": 43,
+    "category_id": 5
+  },
+  {
+    "id": 96,
+    "text": "O animal satisfeito dorme.",
+    "author_id": 43,
+    "category_id": 1
+  },
+  {
+    "id": 97,
+    "text": "Feliz aquele que transfere o que sabe e aprende o que ensina.",
+    "author_id": 44,
+    "category_id": 5
+  },
+  {
+    "id": 98,
+    "text": "Eu sou aquela mulher que fez a escalada da montanha da vida removendo pedras e plantando flores.",
+    "author_id": 44,
+    "category_id": 9
+  },
+  {
+    "id": 99,
+    "text": "As coisas mais importantes da vida não são coisas.",
+    "author_id": 45,
+    "category_id": 1
+  },
+  {
+    "id": 100,
+    "text": "Quando nada acontece, há um milagre que não estamos vendo.",
+    "author_id": 45,
+    "category_id": 7
+  },
+  {
+    "id": 101,
+    "text": "Quando algo é importante o suficiente, você faz mesmo que as probabilidades não estejam a seu favor.",
+    "author_id": 46,
+    "category_id": 6
+  },
+  {
+    "id": 102,
+    "text": "Persistência é muito importante. Você não deve desistir a menos que seja forçado a desistir.",
+    "author_id": 46,
+    "category_id": 4
+  },
+  {
+    "id": 103,
+    "text": "A inteligência é a capacidade de se adaptar à mudança.",
+    "author_id": 48,
+    "category_id": 5
+  },
+  {
+    "id": 104,
+    "text": "As pessoas quietas têm as mentes mais barulhentas.",
+    "author_id": 48,
+    "category_id": 1
+  },
+  {
+    "id": 105,
+    "text": "Se suas ações inspiram outros a sonhar mais, aprender mais, fazer mais e se tornar mais, você é um líder.",
+    "author_id": 50,
+    "category_id": 10
+  },
+  {
+    "id": 106,
+    "text": "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta.",
+    "author_id": 50,
+    "category_id": 4
+  },
+  {
+    "id": 107,
+    "text": "A única maneira de fazer um excelente trabalho é amar o que você faz.",
+    "author_id": 7,
+    "category_id": 8
+  },
+  {
+    "id": 108,
+    "text": "O insucesso é apenas uma oportunidade para recomeçar de novo com mais inteligência.",
+    "author_id": 14,
+    "category_id": 6
+  },
+  {
+    "id": 109,
+    "text": "Acredite em você mesmo e chegará um dia em que os outros não terão outra escolha senão acreditar com você.",
+    "author_id": 36,
+    "category_id": 6
+  },
+  {
+    "id": 110,
+    "text": "A música pode mudar o mundo porque pode mudar as pessoas.",
+    "author_id": 30,
+    "category_id": 10
+  },
+  {
+    "id": 111,
+    "text": "O tempo é um grande mestre, mas infelizmente mata todos os seus alunos.",
+    "author_id": 28,
+    "category_id": 1
+  },
+  {
+    "id": 112,
+    "text": "Não há caminho para a felicidade. A felicidade é o caminho.",
+    "author_id": 3,
+    "category_id": 7
+  },
+  {
+    "id": 113,
+    "text": "A melhor vingança é o sucesso maciço.",
+    "author_id": 12,
+    "category_id": 8
+  },
+  {
+    "id": 114,
+    "text": "O conhecimento fala, mas a sabedoria escuta.",
+    "author_id": 32,
+    "category_id": 1
+  },
+  {
+    "id": 115,
+    "text": "Você perde 100% das chances que não aproveita.",
+    "author_id": 35,
+    "category_id": 6
+  },
+  {
+    "id": 116,
+    "text": "A vida encolhe ou se expande de acordo com a coragem de cada um.",
+    "author_id": 25,
+    "category_id": 4
+  },
+  {
+    "id": 117,
+    "text": "Nem tudo que pode ser contado conta, e nem tudo que conta pode ser contado.",
+    "author_id": 1,
+    "category_id": 1
+  },
+  {
+    "id": 118,
+    "text": "A verdadeira medida de um homem não é como ele se comporta em momentos de conforto, mas como ele se mantém em tempos de controvérsia.",
+    "author_id": 5,
+    "category_id": 4
+  },
+  {
+    "id": 119,
+    "text": "Você nunca sabe que resultados virão da sua ação. Mas se você não fizer nada, não existirão resultados.",
+    "author_id": 3,
+    "category_id": 6
+  },
+  {
+    "id": 120,
+    "text": "O homem é do tamanho do seu sonho.",
+    "author_id": 37,
+    "category_id": 10
+  },
+  {
+    "id": 121,
+    "text": "Amar não é olhar um para o outro, é olhar juntos na mesma direção.",
+    "author_id": 38,
+    "category_id": 2
+  },
+  {
+    "id": 122,
+    "text": "Liberdade é pouco. O que eu desejo ainda não tem nome.",
+    "author_id": 17,
+    "category_id": 9
+  },
+  {
+    "id": 123,
+    "text": "Apaixonar-se é criar uma religião que tem um deus falível.",
+    "author_id": 4,
+    "category_id": 2
+  },
+  {
+    "id": 124,
+    "text": "Loucura é continuar fazendo sempre a mesma coisa e esperar resultados diferentes.",
+    "author_id": 1,
+    "category_id": 1
+  },
+  {
+    "id": 125,
+    "text": "O pessimista vê dificuldade em cada oportunidade. O otimista vê oportunidade em cada dificuldade.",
+    "author_id": 50,
+    "category_id": 6
+  },
+  {
+    "id": 126,
+    "text": "A amizade desenvolve a felicidade e reduz o sofrimento, duplicando a nossa alegria e dividindo a nossa dor.",
+    "author_id": 9,
+    "category_id": 3
+  },
+  {
+    "id": 127,
+    "text": "O amor é a única loucura sã.",
+    "author_id": 37,
+    "category_id": 2
+  },
+  {
+    "id": 128,
+    "text": "Tenho em mim todos os sonhos do mundo.",
+    "author_id": 37,
+    "category_id": 10
+  },
+  {
+    "id": 129,
+    "text": "A gratidão é não apenas a maior das virtudes, mas a mãe de todas as outras.",
+    "author_id": 26,
+    "category_id": 7
+  },
+  {
+    "id": 130,
+    "text": "Tente mover o mundo - o primeiro passo será mover a si mesmo.",
+    "author_id": 26,
+    "category_id": 6
+  }
+]
+
