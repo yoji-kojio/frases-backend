@@ -25,7 +25,7 @@ npm run dev
 npm start
 ```
 
-O servidor iniciará na porta 3000 por padrão. Acesse http://localhost:3000 para ver a documentação da API.
+O servidor iniciará na porta 3001 por padrão. Acesse http://localhost:3001 para ver a documentação da API.
 
 ## 📚 Endpoints da API
 
@@ -42,16 +42,16 @@ Lista todas as frases.
 **Exemplos:**
 ```bash
 # Listar todas as frases
-curl http://localhost:3000/api/phrases
+curl http://localhost:3001/api/phrases
 
 # Listar frases de um autor específico
-curl http://localhost:3000/api/phrases?author_id=1
+curl http://localhost:3001/api/phrases?author_id=1
 
 # Listar frases com dados completos
-curl http://localhost:3000/api/phrases?include=full
+curl http://localhost:3001/api/phrases?include=full
 
 # Listar frases de uma categoria
-curl http://localhost:3000/api/phrases?category_id=2
+curl http://localhost:3001/api/phrases?category_id=2
 ```
 
 #### GET /api/phrases/random
@@ -62,7 +62,7 @@ Retorna uma frase aleatória.
 
 **Exemplo:**
 ```bash
-curl http://localhost:3000/api/phrases/random?include=full
+curl http://localhost:3001/api/phrases/random?include=full
 ```
 
 #### GET /api/phrases/:id
@@ -70,7 +70,7 @@ Busca uma frase específica por ID.
 
 **Exemplo:**
 ```bash
-curl http://localhost:3000/api/phrases/1?include=full
+curl http://localhost:3001/api/phrases/1?include=full
 ```
 
 #### POST /api/phrases
@@ -87,7 +87,7 @@ Cria uma nova frase.
 
 **Exemplo:**
 ```bash
-curl -X POST http://localhost:3000/api/phrases \
+curl -X POST http://localhost:3001/api/phrases \
   -H "Content-Type: application/json" \
   -d '{"text": "A vida é bela", "author_id": 1, "category_id": 7}'
 ```
@@ -106,7 +106,7 @@ Atualiza uma frase existente.
 
 **Exemplo:**
 ```bash
-curl -X PUT http://localhost:3000/api/phrases/1 \
+curl -X PUT http://localhost:3001/api/phrases/1 \
   -H "Content-Type: application/json" \
   -d '{"text": "Texto atualizado"}'
 ```
@@ -116,7 +116,7 @@ Deleta uma frase.
 
 **Exemplo:**
 ```bash
-curl -X DELETE http://localhost:3000/api/phrases/1
+curl -X DELETE http://localhost:3001/api/phrases/1
 ```
 
 ### Autores
@@ -126,7 +126,7 @@ Lista todos os autores.
 
 **Exemplo:**
 ```bash
-curl http://localhost:3000/api/authors
+curl http://localhost:3001/api/authors
 ```
 
 #### GET /api/authors/:id
@@ -134,7 +134,7 @@ Busca um autor específico por ID.
 
 **Exemplo:**
 ```bash
-curl http://localhost:3000/api/authors/1
+curl http://localhost:3001/api/authors/1
 ```
 
 #### POST /api/authors
@@ -149,7 +149,7 @@ Cria um novo autor.
 
 **Exemplo:**
 ```bash
-curl -X POST http://localhost:3000/api/authors \
+curl -X POST http://localhost:3001/api/authors \
   -H "Content-Type: application/json" \
   -d '{"name": "Novo Autor"}'
 ```
@@ -166,7 +166,7 @@ Atualiza um autor existente.
 
 **Exemplo:**
 ```bash
-curl -X PUT http://localhost:3000/api/authors/1 \
+curl -X PUT http://localhost:3001/api/authors/1 \
   -H "Content-Type: application/json" \
   -d '{"name": "Nome Atualizado"}'
 ```
@@ -176,7 +176,7 @@ Deleta um autor.
 
 **Exemplo:**
 ```bash
-curl -X DELETE http://localhost:3000/api/authors/1
+curl -X DELETE http://localhost:3001/api/authors/1
 ```
 
 ### Categorias
@@ -186,7 +186,7 @@ Lista todas as categorias.
 
 **Exemplo:**
 ```bash
-curl http://localhost:3000/api/categories
+curl http://localhost:3001/api/categories
 ```
 
 #### GET /api/categories/:id
@@ -194,7 +194,7 @@ Busca uma categoria específica por ID.
 
 **Exemplo:**
 ```bash
-curl http://localhost:3000/api/categories/1
+curl http://localhost:3001/api/categories/1
 ```
 
 #### POST /api/categories
@@ -209,7 +209,7 @@ Cria uma nova categoria.
 
 **Exemplo:**
 ```bash
-curl -X POST http://localhost:3000/api/categories \
+curl -X POST http://localhost:3001/api/categories \
   -H "Content-Type: application/json" \
   -d '{"name": "Nova Categoria"}'
 ```
@@ -226,7 +226,7 @@ Atualiza uma categoria existente.
 
 **Exemplo:**
 ```bash
-curl -X PUT http://localhost:3000/api/categories/1 \
+curl -X PUT http://localhost:3001/api/categories/1 \
   -H "Content-Type: application/json" \
   -d '{"name": "Nome Atualizado"}'
 ```
@@ -236,7 +236,7 @@ Deleta uma categoria.
 
 **Exemplo:**
 ```bash
-curl -X DELETE http://localhost:3000/api/categories/1
+curl -X DELETE http://localhost:3001/api/categories/1
 ```
 
 ## 🗂️ Estrutura do Projeto
@@ -307,7 +307,7 @@ frases-backend/
 
 ### Buscar frase aleatória com dados completos
 ```bash
-curl http://localhost:3000/api/phrases/random?include=full
+curl http://localhost:3001/api/phrases/random?include=full
 ```
 
 Resposta:
@@ -330,12 +330,12 @@ Resposta:
 
 ### Buscar todas as frases de amor
 ```bash
-curl http://localhost:3000/api/phrases?category_id=2&include=full
+curl http://localhost:3001/api/phrases?category_id=2&include=full
 ```
 
 ### Criar uma nova frase
 ```bash
-curl -X POST http://localhost:3000/api/phrases \
+curl -X POST http://localhost:3001/api/phrases \
   -H "Content-Type: application/json" \
   -d '{
     "text": "O importante é não parar de questionar.",
